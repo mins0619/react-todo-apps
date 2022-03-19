@@ -6,7 +6,7 @@ const Main = () => {
     return (
       <div>
         <h1>홈</h1>
-        <p>투두리스트로 입장</p>
+        <p>투두리스트로</p>
         <Link to="/todo">투두</Link>
       </div>
     );
